@@ -1,0 +1,142 @@
+<resources>
+    <string name="app_name">Rome</string>
+    <string name="menu_maps">Maps</string>
+
+    <string name="headerImageDescription">Tour Image</string>
+
+    <string name="religious_1_name">The Great Mosque of Central Java</string>
+    <string name="religious_1_description">The Great Mosque of Central Java (Indonesian: Masjid Agung Jawa Tengah) is a mosque in the city of Semarang, Central Java. \n\n
+        The mosque complex covers 10 hectares (25 acres). There are three central buildings arranged in the shape of a U, with the domed mosque at the centre; all buildings have pitched, tiled roofs, while the central mosque has four minarets. The central roof resembles the roof of a "joglo", the traditional Javanese house, and symbolises the rising steps toward heaven or to gain God\'s blessing. The long buildings forming the arms of the U house a library and auditorium respectively; the auditorium can hold up to 2,000 people.\n\n
+        In the central courtyard are six large hydraulically operated umbrellas, inspired by the ones at Al-Masjid al-Nabawi in Medina, which are used to protect worshipers; the six umbrellas represent the six tenets of iman. More than 15,000 worshipers can fit in the 7,669-square-metre (82,550 sq ft) prayer area. At the open end of the U is a series of Arabic-style arches, with Arabic calligraphs of 99 attributes of Allah, stood on 25 pillars, each representing one of the named prophets in Islam. Beyond the arches is an inscription on a 3.2-metre (10 ft) tall, 7.8 ton stone from Mount Merapi, designed by Nyoman M. Alim.\n\n
+        Nearby is the 99-metre-tall (325 ft) Asmaul Husna Tower, designed to resemble the minaret of a mosque in Kudus; the height represents the 99 attributes of Allah. Used for calling Muslims to prayer, the tower also houses a radio station for da\'wah and museum at its base and restaurant and observation deck near its summit. The upper levels are accessible by lift. On premises there is also a 23-room hotel.
+    </string>
+    <string name="religious_1_latitude">-6.983573</string>
+    <string name="religious_1_longitude">110.445263</string>
+
+    <string name="religious_2_name">Blenduk Church</string>
+    <string name="religious_2_description">The Immanuel Protestant Church of Western Indonesia (Gereja Protestan Indonesia Barat Immanuel), better known as Blenduk Church (Gereja Blenduk) is a Protestant church in Semarang, Central Java, Indonesia. Built in 1753, it is the oldest church in the province.\n\n
+        Blenduk Church, at 32 Letjen Suprapto Street in the old town of Semarang, Central Java, is located in a small courtyard between former office buildings. The Jiwasraya building is located to the south, across the street, while the Kerta Niaga offices are to its west.\n\n
+        The octagonal church, built on a stone foundation and with single-layer brick walls, has its ground floor at street level. It is topped by a large, copper-skinned dome, from which it gets its common name; the Javanese word mblenduk means dome. The dome is supported by 32 steel beams, 8 large and 24 small. Two towers, square at the base and slowly rounding until topped with a small dome, are located on either side of the main entrance, while a cornice consisting of horizontal lines runs around the building; Roman-style porticoes covered in saddle-shaped roofs are located on its eastern, southern and western faces. Blenduk also features etched and stained glass windows, as well as wood-panel double doors at the south-facing entrance.\n\n
+        The wooden pews inside Blenduk have rattan seats, while the pulpit is completely made of wood and located on an octagonal platform made of teak. A nonfunctional Baroque pipe organ from the 1700s is also located inside. The floor is covered in black, yellow, and white tiles. In the northern part of the interior is a spiral staircase, etched with name of its manufacturer, Pletterij den haag (Rolling Mill, The Hague), which leads to the second floor.
+    </string>
+    <string name="religious_2_latitude">-6.968216</string>
+    <string name="religious_2_longitude">110.427454</string>
+
+    <string name="religious_3_name">Sam Poo Kong</string>
+    <string name="religious_3_description">Sam Poo Kong also known as Gedung Batu Temple, is the oldest Chinese temple in Semarang, Central Java, Indonesia. Originally established by the Chinese Muslim explorer Zheng He (also known as Sanbao), it is now shared by Indonesians of multiple religious denominations, including Muslims and Buddhists, and ethnicities, including Chinese and Javanese.\n\n
+        The Sam Poo Kong temple complex includes five temples in a mixed Chinese and Javanese architectural style. The temples are Sam Poo Kong (the oldest), Tho Tee Kong, Kyai Juru Mudi Temple, Kyai Jangkar Temple, and Kyai Cundrik Bumi Temple. An additional worship site, Mbah Kyai Tumpeng, is also located within the complex. The buildings are spread over 3.2 hectares (7.9 acres).\n\n
+        Tho Tee Kong (also known as Dewa Bumi Temple), is located just within the large gate at the northern end of the complex; it is used by those who seek the blessings of the earth god Tu Di Gong. Next to Tho Tee Kong is Kyai Juru Mudi Temple, the burial site of Wang Jing Hong, one of Zheng He\'s deputies. It is often frequented by people looking for success in business.\n\n
+        The main temple is built directly in front of the cave, located south of Kyai Juru Mudi. In the cave itself are an altar, fortune-telling equipment, and a small statue of Zheng He; underneath the altar is a well that is said to never go dry and to be capable of healing various ailments. Before the 2002 renovations, the temple measured 16 by 16 metres (52 by 52 ft); it now measures 34 by 34 metres (112 by 112 ft).\n\n
+        Further south is the Kyai Jankar Temple, named after a sacred anchor used by Zheng He which is held inside. The temple also contains an altar to those of Zheng\'s crewmen who died while fulfilling their duties. The southernmost temple is Kyai Cundrik Bumi, which is used to worship a weapon used by Zheng. Nearby is Mbah Kyai Tumpeng, a prayer site used by people wishing for their well-being.\n\n
+    </string>
+    <string name="religious_3_latitude">-6.996243</string>
+    <string name="religious_3_longitude">110.398070</string>
+
+    <string name="religious_4_name">Pagoda Avalokitesvara</string>
+    <string name="religious_4_description">Pagoda Avalokitesvara di Vihara Buddhagaya atau lebih sering disebut Watugong Semarang ini dibangun tujuh tingkat dengan tinggi 45 meter, dan tercatat oleh Museum Rekor Indonesia MURI sebagai pagoda tertinggi di Indonesia.</string>
+    <string name="religious_4_latitude">-7.086965</string>
+    <string name="religious_4_longitude">110.409251</string>
+
+    <string name="religious_5_name">Vihara Mahavira Graha</string>
+    <string name="religious_5_description">Berada daerah Marina, sebelum Pantai Marina dan dibangun mulai akhir tahun 2001 di atas lahan seluas 1.688 ha. Terdiri atas tujuh lantai, dan dengan keunikannya memiliki 88 arca Budha, Vihara ini merupakan vihara yang terbesar di Jawa Tengah.</string>
+    <string name="religious_5_latitude">-6.958178</string>
+    <string name="religious_5_longitude">110.392078</string>
+
+    <string name="religious_6_name">Tay Kak Sie</string>
+    <string name="religious_6_description">Tay Kak Sie (simplified Chinese: 大觉寺; traditional Chinese: 大覺寺; pinyin: Dà jué sì) is a Taoist temple located at Jalan Gang Lombok, Semarang. The temple was established in 1746.[1] This was originally only to worship the Goddess of Mercy, Guan Yin. This pagoda later developed into a large temple also worshiped many deities Tao.\n\n
+        Tay Kak Sie name written on the signboard at the entrance of a large temple, with the record year of the reign of Emperor Dao Guang (Too Kong in Hokkien language) 1821-1850 of the Qing Dynasty is a name that means "Temple of Supreme Consciousness".\n\n
+    </string>
+    <string name="religious_6_latitude">-6.974203</string>
+    <string name="religious_6_longitude">110.427978</string>
+
+    <string name="religious_7_name">Pura Agung Giri Natha</string>
+    <string name="religious_7_description">Tempat ini memiliki nama resmi Pura Hindu Dharma Giri Natha, berada di Jalan Sumbing No 12 Gajah Mungkur. Dari sini salah satu view terbaik di pusat kota Semarang terlihat. Nuansa khas Bali dapat dirasakan pura ini. Dengan ornamen khas hindu menghiasi sudut – sudut Pura.</string>
+    <string name="religious_7_latitude">-6.998992</string>
+    <string name="religious_7_longitude">110.410621</string>
+
+    <string name="family_1_name">Taman Kelinci</string>
+    <string name="family_1_description">Wahana Baru Taman Rekreasi Keluarga Lokasi di Kawasan Wisata Muncul-KM7 Salatiga kab Semarang ( dari Salatiga arah Ambarawa jalur alternatif ), suasana alami dilereng bukit dengan udara yang segar disiang dan malam hari, suasana nyaman dan menggugah alam bawah sadar anda untuk mengeluarkan ide terbaik.</string>
+    <string name="family_1_latitude">-7.331359</string>
+    <string name="family_1_longitude">110.444494</string>
+
+    <string name="family_2_name">Taman Lele</string>
+    <string name="family_2_description">Salah satu obyek wisata alam sekaligus taman hiburan keluarga yang terletak di kota Semarang adalah Kampung Wisata Taman Lele Semarang. Luasnya lebih dari 2 hektare, memiliki aneka permainan untuk keluarga baik permainan air atau pun permainan darat. Terdapat juga kebun binatang mini, serta penginapan. Terdapat beberapa wahana di tempat ini, antara lain becak air, taman nan asri, aneka binatang, dan kolam bermain air bagi anak-anak. Bagi pengunjung yang ingin menginap, di Kampung Wisata Taman Lele terdapat penginapan.</string>
+    <string name="family_2_latitude">-6.985926</string>
+    <string name="family_2_longitude">110.345632</string>
+
+    <string name="family_3_name">Wonderia</string>
+    <string name="family_3_description">Obyek wisata keluarga Taman Rekreasi Wonderia telah dibuka oleh Bapak Susilo Bambang Yudhoyono pada tahun 2007. Arena yang luas dan rindang menambah menariknya tempat wisata ini. Pembenahan yang dilakukan pengelola pun menambah kenyamanan pengunjung. Hal ini tampak dengan perawatan dan pembaruan wahana permainan anak. Pengawasan keamanan pengunjung pun mulai diperhatikan. Mulai dengan pembatasan umur mulai diberlakukan.</string>
+    <string name="family_3_latitude">-7.001584</string>
+    <string name="family_3_longitude">110.423978</string>
+
+    <string name="family_4_name">Umbul Sidomukti</string>
+    <string name="family_4_description">Wisata alam, wisata pegunungan Umbul Sidomukti memang sangat mempesona. Sangat cocok sekali untuk wisata keluarga maupun wisata corporate event. Pemandangan yang elok memukau memanjakan mata bagi para pengunjung baik wisatawan domestik maupun manca negara. Terdapat juga kolam renang dari sumber mata air alami dan terletak di lereng gunung ungaran pada ketinggian 1.200 meter di atas permukaan laut. Kolam renang Umbul Sidomukti diapit jurang dikedua sisinya. Sengaja dipilih karena keindahan panoramanya, kesegaran udaranya serta beningnya air yang benar-benar alami. Lereng gunung ungaran kaya akan mata air pegunungan yang mengalir sepanjang tahun, diantaranya Tuk ngetihan yang airnya menyegarkan jiwa dan raga hingga dipercaya dapat membuat awet muda.</string>
+    <string name="family_4_latitude">-7.195216</string>
+    <string name="family_4_longitude">110.373494</string>
+
+    <string name="family_5_name">Bonbin Mangkang</string>
+    <string name="family_5_description">Di Bonbin Mangkang, Anda bisa melihat beberapa jenis binatang yang bebas, tak di kandang. Namun masih ditempatkan di habitatnya. Untuk mengelilingi kebun binatang dengan luas 9 hektar ini, jika Anda capek, Anda bisa keliling menggunakan kereta mini. Fasilitas lainnya yang dapat Anda nikmati sebagai pengunjung antara lain becak air, gajah dll. Mungkin yang cukup unik yakni becak airnya, karena Anda bisa berjalan-jalan menggunakan becak air tersebut di danau buatan, dan melihat-lihat burung pelikan berenang dengan bebas. Tak hanya itu saja, masih ada beberapa fasilitas lainnya, rata-rata untuk anak-anak, yakni water boom, kolam keceh, dan museum pesawat.</string>
+    <string name="family_5_latitude">-6.970007</string>
+    <string name="family_5_longitude">110.287179</string>
+
+    <string name="family_6_name">The Hills</string>
+    <string name="family_6_description">The Hills Dining Restaurant Semarang terletak di daerah Bukit Sari, daerah perbukitan di Semarang. Lokasi ini sangat cocok bagi Anda yang ingin mencari ketenangan, suasana yang cozy, apalagi ditambah dengan hamparan pemandangan kota Semarang saat malam dengen gemerlap lampu yang menyala-nyala. The Hills Dining Restaurant juga cocok bagi Anda yang ingin mengadakan meeting, banquet, pre-wedding, maupun wedding party.</string>
+    <string name="family_6_latitude">-7.041330</string>
+    <string name="family_6_longitude">110.425993</string>
+
+    <string name="history_1_name">Lawang Sewu</string>
+    <string name="history_1_description">Lawang Sewu atau dalam bahasa Indonesia Pintu Seribu adalah Gedung megah yang dibangun di Era penjajahan Belanda.Yang sekarang ini menjadi salah satu Obyek Wisata kota Semarang. Lawang Sewu merupakan sebuah bangunan kuno peninggalan jaman belanda yang dibangun pada 1904. Semula gedung ini untuk kantor pusat perusahaan kereta api (trem) penjajah Belanda atau Nederlandsch Indishe Spoorweg Naatschappij (NIS). Gedung tiga lantai bergaya art deco (1850-1940) ini karya arsitek Belanda ternama, Prof Jacob F Klinkhamer dan BJ Queendag. Lawang Sewu terletak di sisi timur Tugu Muda Semarang, atau di sudut jalan Pandanaran dan jalan Pemuda. Disebut Lawang Sewu (Seribu Pintu), ini dikarenakan bangunan tersebut memiliki pintu yang sangat banyak. Kenyataannya, pintu yang ada tidak sampai seribu. Bangunan ini memiliki banyak jendela tinggi dan lebar, sehingga masyarakat sering menganggapnya sebagai pintu.</string>
+    <string name="history_1_latitude">-6.983941</string>
+    <string name="history_1_longitude">110.410638</string>
+
+    <string name="history_2_name">Museum Ranggawarsita</string>
+    <string name="history_2_description">Museum Ronggowarsito merupakan museum yang menjadi kebangaan masyarakat di Jawa Tengah. Selain museum Mandala Bhakti, Museum Ronggowarsito juga Sebagai salah satu tempat untuk melestarikan berbagai asset kebudayaan dari Jawa serta menjadi sarana pendidikan bagi generasi penerus bangsa.</string>
+    <string name="history_2_latitude">-6.986018</string>
+    <string name="history_2_longitude">110.383860</string>
+
+    <string name="history_3_name">Kota Lama</string>
+    <string name="history_3_description">Kota lama Semarang dimulai pertama kali pada abad ke 18 ketika era pemerintahan Hindia Belanda. Hampir sama dengan kota lama-kota lama di berbagai kota besar di sepanjang pulau Jawa seperti Surakarta, Jogjakarta dan Jakarta. Semarang juga memiliki kota lama dimana ketika itu sebagai pusat perekonomian dan budaya masyarakat Jawa Tengah sekaligus menjadi pusat pemerintahan Hindia Belanda yang berada di Jawa Tengah. Pada masanya dahulu beberapa etnis berkumpul menjadi satu di area kota lama Semarang. Dibagian utara yang dipotong oleh Kali Mberok terdapat kawasan kampung melayu yang beragama islam dengan peninggalan berupa Masjid Layur (Masjid Menara) , sementara di sisi barat terdapat kawasan orang Jawa islam dengan dibangunnya Masjid Kauman Semarang.  Sedang disisi selatan, terdapat pemukiman keturunan cina yang berkumpul menjadi satu membentuk kawasan Pecinan Semarang. Sedang bagian dalam Kota Lama terdapat bagunan arsitektur yang bagus, masyarakat menamai dengan gereja Blenduk.</string>
+    <string name="history_3_latitude">-6.968508</string>
+    <string name="history_3_longitude">110.425903</string>
+
+    <string name="history_4_name">Candi Gedong Songo</string>
+    <string name="history_4_description">Candi Gedong Songo ini adalah sebuah candi yang berada di komplek bangunan candi peninggalan budaya Hindu yang terletak di desa Candi, kecamatan bandungan, Kabupaten Semarang. Lokasi desa candi ini berada pada bukit pegunungan Ungaran yang terletak pada ketinggian 1200 DPL dengan suhu di lokasi yang berkisar antara 19 – 27 derajat Celsius. Jika para penelusur mau ke lokasi candi ini, lokasinya tidak terlalu sulit unutk di jangkau. Jika para penelusur dari pusat kota Semarang, maka hanya cukup menuju ke selatan ke Ungaran kemudian di lanjut ke Bandungan setelah itu sampailah di Gedong Songo. Perjalanan ini mungkin bisa menempuh waktu selama 1 jam.</string>
+    <string name="history_4_latitude">-7.208216</string>
+    <string name="history_4_longitude">110.341769</string>
+
+    <string name="nature_1_name">Pantai Maron</string>
+    <string name="nature_1_category">Beach</string>
+    <string name="nature_1_description">Pantai Maron Semarang - Kota Semarang memang tidak memiliki banyak wisata pantai, namun ada beberapa pantai yang cukup menarik pula untuk dikunjungi, salah satunya adalah Pantai Maron, yang terletak di sebelah barat Semarang, tepatnya di sekitar muara sungai Silandak. Bisa ditempuh dari Bandara Ahmad Yani atau bisa juga dari Perumahan Graha Padma, Krapyak, semarang, dengan jarak sekitar 3 Km dari jalan raya, atau sekitar 10 menit perjalanan dengan kendaraan.</string>
+    <string name="nature_1_latitude">-6.954574</string>
+    <string name="nature_1_longitude">110.360102</string>
+
+    <string name="nature_2_name">Kalipancur</string>
+    <string name="nature_2_category">Tourist Attraction</string>
+    <string name="nature_2_description">Salah satu bentuk rekreasi dengan tema alam pegunungan adalah berwisata ke air terjun. Ada beberapa tempat wisata di Semarang yang berupa air terjun, namun air terjun Kali Pancur ini merupakan air terjun dengan medan jalan yang relatif paling bersahabat, dibandingkan yang lainnya, sebutlah air terjun / curug Benowo. Selain karena lebih bagus medan jalannya, juga jarak yang harus ditempuh dengan jalan kaki tidak terlalu jauh. Karena lokasi air terjun ini tidak sampai 1 km dari pintu masuk atau tempat parkir kendaraan. Di sepanjang jalan menyusuri anak tangga menuju lokasi air terjun, gemericik air hampir terdengar di sepanjang jalan, di samping itu pemandangan yang hijau dan udara yang sejuk menjadikan kawasan wisata ini bisa dijadikan salah satu tempat untuk menyegarkan kembali tubuh setelah berada dalam hiruk pikuk kota. Dengan ketinggian sekitar 100 meter, air terjun ini dihiasi bebatuan alam dan juga goa goa kecil tempat bersarang burung walet.</string>
+    <string name="nature_2_latitude">-7.020540</string>
+    <string name="nature_2_longitude">110.375688</string>
+
+    <string name="nature_3_name">Goa Kreo</string>
+    <string name="nature_3_category">Tourist Attraction</string>
+    <string name="nature_3_description">Goa Kreo Semarang merupakan sebuah goa yang dipercaya sebagai petilasan Sunan Kalijaga saat mencari kayu jati untuk membangun Mesjid Agung Demak . Ketika itu menurut legenda Sunan Kalijaga bertemu dengan sekawanan kera yang kemudian disuruh menjaga kayu jati tersebut. Kata “Kreo” berasal dari kata Mangreho yang berarti peliharalah atau jagalah. Kata inilah yang kemudian menjadikan goa ini disebut Goa Kreo dan sejak itu kawanan kera yang menghuni kawasan ini dianggap sebagai penunggu. Untuk mencapai mulut Goa, pengunjung harus melewati anak tangga yang cukup banyak dan curam. Disebelah Utara Goa Kreo terdapat air terjun yang berasal dari berbagai sumber mata air yang jernih dan tidak kering meski musim kemarau panjang. Selain menikmati pemandangan alam yang indah dan udara yang sejuk serta bercanda dengan kera penunggu kawasan ini, pengunjung juga bisa menikmati aliran sungai yang dingin dan segar di bagian bawah daerah ini yang sebentar lagi akan berubah menjadi waduk.</string>
+    <string name="nature_3_latitude">-7.038579</string>
+    <string name="nature_3_longitude">110.351092</string>
+
+    <string name="nature_4_name">Brown Canyon</string>
+    <string name="nature_4_category">Tourist Attraction</string>
+    <string name="nature_4_description">Brown Canyon Semarang merupakan tempat sebagai proyek galian C yang sudah berumur 10 tahun lebih. Dan disinilah sebagai tempat mengais rejeki bagi sebagian orang dengan melakukan penggalian pasir, penggalian tanah urug dan batu padas. Brown Canyon sebenarnya bukanlah tempat wisata melainkan perbukitan biasa, namun karena penambangan material yang dilakukan setiap hari selama bertahun-tahun ahirnya berubah wujud seperti layaknya Green Canyon yang ada di Amerika.</string>
+    <string name="nature_4_latitude">-7.058939</string>
+    <string name="nature_4_longitude">110.489025</string>
+
+    <string name="nature_5_name">Hutan Wisata Tinjomoyo</string>
+    <string name="nature_5_category">Campground</string>
+    <string name="nature_5_description">Dulunya sebelum tahun 2006, Taman wisata Tinjomoyo Semarang lebih dikenal oleh masyarakat sebagai kebun binatang yang mana didalamnya terdapat beraneka ragam jenis binatang yang hidup di tengah hutan wisata. Diakibatkan adanya banjir besar kali Garang yang memutuskan jembatan besar yang menjadi penghubung pintu masuk dengan kawasan hutan membuat akses pariwisata menjadi kurang memadai. Kontur tanah sekitarnya pun menjadi labil dan rawan longsor.</string>
+    <string name="nature_5_latitude">-7.029683</string>
+    <string name="nature_5_longitude">110.406845</string>
+
+    <string name="nature_6_name">Rawa Pening</string>
+    <string name="nature_6_category">Lake</string>
+    <string name="nature_6_description">Rawa Pening yang berarti rawa yang bening merupakan objek wisata danau yang berlokasi di pinggir kota Semarang, Provinsi Jawa Tengah. Jika anda merencanakan liburan bersama keluarga maka jangan segan-segan untuk datang ke Rawa Pening yang memiliki pemandangan danau yang begitu menarik dan sedap dipandang mata.</string>
+    <string name="nature_6_latitude">-7.270860</string>
+    <string name="nature_6_longitude">110.421628</string>
+</resources>

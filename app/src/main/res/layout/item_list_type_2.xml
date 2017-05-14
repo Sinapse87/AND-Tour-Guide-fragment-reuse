@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/item_type_2_height"
+    android:layout_marginTop="@dimen/default_space"
+    android:layout_marginBottom="@dimen/default_space"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:clickable="true"
+    android:foreground="?android:selectableItemBackground"
+    app:cardCornerRadius="@dimen/default_card_radius">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <ImageView
+            android:id="@+id/image_location"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_toStartOf="@+id/view_center"
+            android:scaleType="centerCrop"
+            android:contentDescription="@string/headerImageDescription"
+            tools:src="@drawable/religious_2_image"/>
+        <View
+            android:id="@+id/view_center"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_centerInParent="true"/>
+        <TextView
+            android:id="@+id/text_location_name"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_toEndOf="@+id/view_center"
+            android:layout_alignBottom="@+id/view_center"
+            android:paddingStart="@dimen/default_space"
+            android:paddingEnd="@dimen/default_space"
+            android:gravity="start|bottom"
+            android:background="#BF000000"
+            android:textColor="@android:color/white"
+            android:textSize="18sp"
+            tools:text="BLENDUK"/>
+        <TextView
+            android:id="@+id/text_location_category"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_toEndOf="@+id/view_center"
+            android:layout_alignTop="@+id/view_center"
+            android:paddingStart="@dimen/default_space"
+            android:paddingEnd="@dimen/default_space"
+            android:gravity="start|top"
+            android:background="#BF000000"
+            android:textColor="@android:color/white"
+            android:textSize="12sp"
+            tools:text="BLENDUK"/>
+    </RelativeLayout>
+
+</android.support.v7.widget.CardView>
